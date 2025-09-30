@@ -1,2 +1,2 @@
 # missdoctrix.github.io
-for data access
+This page is a simple data access page. 
